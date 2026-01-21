@@ -1,0 +1,8 @@
+# YOLO dataset configuration
+path: yolo_dataset
+train: images
+val: images  # Using same for simplicity, in practice split
+
+# Classes
+names:
+  0: plate

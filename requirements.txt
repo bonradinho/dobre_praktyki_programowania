@@ -1,0 +1,10 @@
+opencv-python
+torch
+torchvision
+torchaudio
+easyocr
+ultralytics
+numpy
+scikit-learn
+lxml
+pillow
